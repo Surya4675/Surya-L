@@ -42,7 +42,7 @@
 ---
 
 ## 📈 GitHub Stats
-![Surya's GitHub stats](https://github-readme-stats.vercel.app/api?username=Surya4675&show_icons=true&theme=radical)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Surya-L&show_icons=true&theme=radical&cache_seconds=1800)
 
 ## 🔥 Streak Stats
 ![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
